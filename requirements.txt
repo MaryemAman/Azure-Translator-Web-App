@@ -2,4 +2,4 @@ flask
 python-dotenv
 azure-ai-translation-text
 azure-storage-blob
-azure-ai-translation
+azure-ai-translation-text
