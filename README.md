@@ -87,6 +87,19 @@ Ensure python-dotenv loads the .env file from the root.
 5) Translated file is saved in output-results
 6) User can download translated file from the UI
 
+
+#🌐 **Live Demo**
+
+## Try the app live here:  
+🔗 [Azure Translator Web App](https://ai-text-translate-a5h6ddddaacgecfc.westeurope-01.azurewebsites.net/)
+
+## 📸 Screenshot of the Home Page:  
+<img width="1014" height="1127" alt="image" src="https://github.com/user-attachments/assets/7f9adc98-6cda-403e-8e45-318f916ce78d" />
+
+
+> Users can upload .txt files, select output language, and download the translated results via the web interface.
+
+
 # 🚀 Deployment Tips
 
 - Function App Name: maryem-translator-functionapp
