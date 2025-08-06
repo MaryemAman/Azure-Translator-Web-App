@@ -7,6 +7,11 @@ This project automates the translation of uploaded `.txt` files using **Azure AI
 ## 🗂️ Project Structure
 <img width="248" height="552" alt="image" src="https://github.com/user-attachments/assets/aa6756ea-bd0c-4346-a907-8dc4eadffbde" />
 
+# 🏗️ Architecture
+
+<img width="700" height="900" alt="image" src="https://github.com/user-attachments/assets/a16a8f7d-7465-4849-970b-3df0de60aea8" />
+
+> This architecture shows how the app uses Azure Blob Storage, Azure Function, and AI Translator.
 
 ---
 
